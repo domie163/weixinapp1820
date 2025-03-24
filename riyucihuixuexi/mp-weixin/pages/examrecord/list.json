@@ -1,0 +1,8 @@
+{
+  "navigationBarBackgroundColor": "#4AD1F2",
+  "navigationBarTextStyle": "white",
+  "navigationBarTitleText": "练习记录",
+  "usingComponents": {
+    "mescroll-uni": "/components/mescroll-uni/mescroll-uni"
+  }
+}
